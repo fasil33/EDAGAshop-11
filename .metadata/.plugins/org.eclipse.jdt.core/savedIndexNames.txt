@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\Fasil\Documents\workspace-comIT-Spring EDAGA shop-1\EDAGAShop-11\.metadata\.plugins\org.eclipse.jdt.core
